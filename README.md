@@ -1,3 +1,9 @@
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://avatars.githubusercontent.com/u/245857?s=40&v=4" />
+<meta name="twitter:site" content="@karlstenerud" />
+<meta property="og:description" content="Description" />
+<meta property="og:title" content="Karl Stenerud" />
+
 ### Hi there 👋
 
 <!--
