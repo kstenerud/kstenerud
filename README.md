@@ -4,8 +4,6 @@
 <meta property="og:description" content="Software Developer" />
 <meta property="og:title" content="Karl Stenerud" />
 
-### Hi there 👋
-
 I guess you'd call me a software inventor. I like to come up with new tools and new ways of doing things that folks didn't even know was possible.
 
 My current passion is [Concise Encoding](https://concise-encoding.org/), a modern, secure, efficient format to replace JSON and XML. Come check it out!
