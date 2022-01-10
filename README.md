@@ -14,14 +14,14 @@ My current passion is [Concise Encoding](https://concise-encoding.org/), a moder
 
 -------------------------------------------------------------------------------
 
-### Stats
+### 📈 Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kstenerud&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kstenerud)](https://github.com/anuraghazra/github-readme-stats)
 
 -------------------------------------------------------------------------------
 
-### Knowledge
+### 💡 Knowledge
 
 | Languages | Languages | Technologies | Platforms | Formats |
 | - | - | - | - | - |
@@ -38,6 +38,6 @@ My current passion is [Concise Encoding](https://concise-encoding.org/), a moder
 
 -------------------------------------------------------------------------------
 
-### Social
+### 🗣️ Social
 
 <a href="https://www.linkedin.com/in/kstenerud/">![LinkedIn](https://img.shields.io/static/v1?label=%7f&message=LinkedIn&color=0077b5&logo=linkedin&logoColor=white&style=plastic) </a> <a href="https://twitter.com/karlstenerud">![Twitter](https://img.shields.io/static/v1?label=%7f&message=Twitter&color=5da9dd&logo=twitter&logoColor=white&style=plastic) </a> <a href="https://www.technicalsourcery.net/">![Technical Sourcery](https://img.shields.io/static/v1?label=T&message=Technical%20Sourcery&color=orange&style=plastic) </a>
