@@ -17,4 +17,4 @@ My current passion is [Concise Encoding](https://concise-encoding.org/), a moder
 
 <a href="https://www.linkedin.com/in/kstenerud/">![linkedin](img/linkedin.svg) </a>
 <a href="https://twitter.com/karlstenerud">![twitter](img/twitter.svg) </a>
-<a href="https://www.technicalsourcery.net/">![blog](img/blog.svg) </a>
+<a href="https://www.technicalsourcery.net/">![blog](img/blog2.svg) </a>
