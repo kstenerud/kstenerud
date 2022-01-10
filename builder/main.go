@@ -51,6 +51,7 @@ var formats []Badge = []Badge{
 
 var technologies []Badge = []Badge{
 	NewLogoBadge("Cocos", "cocos", color_technology),
+	NewLogoBadge("Docker", "docker", color_technology),
 	NewLogoBadge("Django", "django", color_technology),
 	NewLogoBadge("Hibernate", "hibernate", color_technology),
 	NewLogoBadge("MySQL", "mysql", color_technology),
