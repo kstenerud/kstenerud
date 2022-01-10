@@ -9,7 +9,7 @@ I guess you'd call me a software inventor. I like to come up with new tools and 
 My current passion is [Concise Encoding](https://concise-encoding.org/), a modern, secure, efficient format to replace JSON and XML. Come check it out!
 
 <p align="center">
-    <a href="https://concise-encoding.org/"><img width="350" src="https://concise-encoding.org/img/social-card.png"/></a>
+    <a href="https://concise-encoding.org/"><img width="400" src="https://concise-encoding.org/img/social-card.png"/></a>
 </p>
 
 -------------------------------------------------------------------------------
