@@ -45,6 +45,7 @@ var formats []Badge = []Badge{
 	NewLogoBadge("HTML", "html5", color_format),
 	NewLogoBadge("JSON", "json", color_format),
 	NewLogoBadge("Markdown", "markdown", color_format),
+	NewNoLogoBadge("SVG", "SVG", color_format),
 	NewNoLogoBadge("XML", "<>", color_format),
 	NewNoLogoBadge("YAML", "YML", color_format),
 }
@@ -56,6 +57,7 @@ var technologies []Badge = []Badge{
 	NewLogoBadge("Hibernate", "hibernate", color_technology),
 	NewLogoBadge("MySQL", "mysql", color_technology),
 	NewLogoBadge("NET", ".net", color_technology),
+	NewLogoBadge("Oracle", "oracle", color_technology),
 	NewLogoBadge("PostgreSQL", "postgresql", color_technology),
 	NewLogoBadge("Spring", "spring", color_technology),
 	NewLogoBadge("SQLite", "sqlite", color_technology),
@@ -64,6 +66,7 @@ var technologies []Badge = []Badge{
 
 var platforms []Badge = []Badge{
 	NewLogoBadge("Android", "android", color_platform),
+	NewLogoBadge("Arduino", "arduino", color_platform),
 	NewLogoBadge("BSD", "freebsd", color_platform),
 	NewLogoBadge("iOS", "ios", color_platform),
 	NewLogoBadge("Linux", "linux", color_platform),
