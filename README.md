@@ -1,45 +1,43 @@
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:image" content="https://avatars.githubusercontent.com/u/245857?s=40&v=4" />
-<meta name="twitter:site" content="@karlstenerud" />
-<meta property="og:description" content="Software Developer" />
-<meta property="og:title" content="Karl Stenerud" />
+### Hi, I'm Karl.
 
-I guess you'd call me a software inventor. I like to come up with new tools and new ways of doing things that folks didn't even know were possible.
+I build the software other developers build on, mostly the hard, low-level kind that has to keep
+working when everything around it has failed.
 
-My current passion is [Concise Encoding](https://concise-encoding.org/), a modern, secure, efficient format to replace JSON and XML. Come check it out!
+- **[KSCrash](https://github.com/kstenerud/KSCrash)** is the crash reporter at the core of most
+  independent iOS crash-reporting SDKs: Sentry, Bugsnag, Datadog, Embrace, bitdrift, Raygun and
+  Rollbar all ship it. This code is estimated to have been installed over 100 billion times as
+  an app SDK, so it MUST NOT FAIL.
+- I've built observability SDKs for several of those vendors: **Sentry's first iOS SDK**,
+  **Bugsnag's OpenTelemetry-compatible performance SDK**, **Embrace's sampling profiler**, and
+  **bitdrift's crash-resilient storage** (in Rust).
 
-<p align="center">
-    <a href="https://concise-encoding.org/"><img width="450" src="https://concise-encoding.org/img/social-card.png"/></a>
-</p>
+### Now
 
--------------------------------------------------------------------------------
+**[Orpheum](https://github.com/kstenerud/orpheum)** is a self-hosted media server for your own films
+and series, which you can watch from anywhere with no VPN and no open ports. Coding agents built it
+in seven weeks under my direction, behind tests and gates designed to make their output trustworthy.
 
-### 📈 Stats
+Built along the way:
+- **[ffmpeg-fdproxy](https://github.com/kstenerud/ffmpeg-fdproxy)** runs FFmpeg fully confined (no
+  network, no file-system path) while it reads untrusted media. Audited spec drafts, fuzzed under
+  ASan and UBSan.
+- **[yoloAI](https://github.com/kstenerud/yoloai)** gives coding agents a disposable sandbox. The
+  agent works on a copy, you review the diff, and credentials never enter the box.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kstenerud&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kstenerud)](https://github.com/anuraghazra/github-readme-stats)
+### Also
 
--------------------------------------------------------------------------------
+- **[BONJSON](https://github.com/kstenerud/bonjson)** is a binary drop-in replacement for JSON that
+  decodes a median 2.2× faster than yyjson, the fastest JSON library. Implementations in C, Go, Rust and Swift.
+- **[Musashi](https://github.com/kstenerud/Musashi)** is a Motorola 680x0 emulator I wrote in the
+  '90s. MAME still ships my CPU cores.
+- [ObjectAL](https://github.com/kstenerud/ObjectAL-for-iPhone) ·
+  [iOS-Universal-Framework](https://github.com/kstenerud/iOS-Universal-Framework) ·
+  [KSReachability](https://github.com/kstenerud/KSReachability)
 
-### 💡 Knowledge
+### Work with me
 
-| Languages | Languages | Technologies | Platforms | Formats |
-| - | - | - | - | - |
-| ![ASSEMBLER](https://img.shields.io/static/v1?label=ASM&message=ASSEMBLER&color=blue) | ![LUA](https://img.shields.io/static/v1?label=%7F&message=LUA&color=blue&logo=lua&logoColor=white) | ![COCOS](https://img.shields.io/static/v1?label=%7F&message=COCOS&color=2c2d72&logo=cocos&logoColor=white) | ![ANDROID](https://img.shields.io/static/v1?label=%7F&message=ANDROID&color=black&logo=android&logoColor=white) | ![CSS](https://img.shields.io/static/v1?label=%7F&message=CSS&color=239120&logo=css3&logoColor=white) |
-| ![BASH](https://img.shields.io/static/v1?label=%7F&message=BASH&color=blue&logo=gnu-bash&logoColor=white) | ![OBJECTIVE-C](https://img.shields.io/static/v1?label=OC&message=OBJECTIVE-C&color=blue) | ![DJANGO](https://img.shields.io/static/v1?label=%7F&message=DJANGO&color=2c2d72&logo=django&logoColor=white) | ![ARDUINO](https://img.shields.io/static/v1?label=%7F&message=ARDUINO&color=black&logo=arduino&logoColor=white) | ![HTML](https://img.shields.io/static/v1?label=%7F&message=HTML&color=239120&logo=html5&logoColor=white) |
-| ![C](https://img.shields.io/static/v1?label=%7F&message=C&color=blue&logo=c&logoColor=white) | ![PERL](https://img.shields.io/static/v1?label=%7F&message=PERL&color=blue&logo=perl&logoColor=white) | ![DOCKER](https://img.shields.io/static/v1?label=%7F&message=DOCKER&color=2c2d72&logo=docker&logoColor=white) | ![BSD](https://img.shields.io/static/v1?label=%7F&message=BSD&color=black&logo=freebsd&logoColor=white) | ![JSON](https://img.shields.io/static/v1?label=%7F&message=JSON&color=239120&logo=json&logoColor=white) |
-| ![C#](https://img.shields.io/static/v1?label=%7F&message=C%23&color=blue&logo=c-sharp&logoColor=white) | ![PHP](https://img.shields.io/static/v1?label=%7F&message=PHP&color=blue&logo=php&logoColor=white) | ![HIBERNATE](https://img.shields.io/static/v1?label=%7F&message=HIBERNATE&color=2c2d72&logo=hibernate&logoColor=white) | ![IOS](https://img.shields.io/static/v1?label=%7F&message=IOS&color=black&logo=ios&logoColor=white) | ![MARKDOWN](https://img.shields.io/static/v1?label=%7F&message=MARKDOWN&color=239120&logo=markdown&logoColor=white) |
-| ![C++](https://img.shields.io/static/v1?label=%7F&message=C%2B%2B&color=blue&logo=c%2B%2B&logoColor=white) | ![PYTHON](https://img.shields.io/static/v1?label=%7F&message=PYTHON&color=blue&logo=python&logoColor=white) | ![MYSQL](https://img.shields.io/static/v1?label=%7F&message=MYSQL&color=2c2d72&logo=mysql&logoColor=white) | ![LINUX](https://img.shields.io/static/v1?label=%7F&message=LINUX&color=black&logo=linux&logoColor=white) | ![SVG](https://img.shields.io/static/v1?label=SVG&message=SVG&color=239120) |
-| ![COBOL](https://img.shields.io/static/v1?label=CB&message=COBOL&color=blue) | ![SQL](https://img.shields.io/static/v1?label=SQL&message=SQL&color=blue) | ![NET](https://img.shields.io/static/v1?label=%7F&message=NET&color=2c2d72&logo=.net&logoColor=white) | ![MACOS](https://img.shields.io/static/v1?label=%7F&message=MACOS&color=black&logo=macos&logoColor=white) | ![XML](https://img.shields.io/static/v1?label=%3C%3E&message=XML&color=239120) |
-| ![DIGITAL LOGIC](https://img.shields.io/static/v1?label=DL&message=DIGITAL+LOGIC&color=blue) | ![SWIFT](https://img.shields.io/static/v1?label=%7F&message=SWIFT&color=blue&logo=swift&logoColor=white) | ![ORACLE](https://img.shields.io/static/v1?label=%7F&message=ORACLE&color=2c2d72&logo=oracle&logoColor=white) | ![NIXOS](https://img.shields.io/static/v1?label=%7F&message=NIXOS&color=black&logo=nixos&logoColor=white) | ![YAML](https://img.shields.io/static/v1?label=YML&message=YAML&color=239120) |
-| ![FLUTTER](https://img.shields.io/static/v1?label=%7F&message=FLUTTER&color=blue&logo=flutter&logoColor=white) |  | ![POSTGRESQL](https://img.shields.io/static/v1?label=%7F&message=POSTGRESQL&color=2c2d72&logo=postgresql&logoColor=white) | ![WINDOWS](https://img.shields.io/static/v1?label=%7F&message=WINDOWS&color=black&logo=windows&logoColor=white) |  |
-| ![GO](https://img.shields.io/static/v1?label=%7F&message=GO&color=blue&logo=go&logoColor=white) |  | ![SPRING](https://img.shields.io/static/v1?label=%7F&message=SPRING&color=2c2d72&logo=spring&logoColor=white) |  |  |
-| ![JAVA](https://img.shields.io/static/v1?label=%7F&message=JAVA&color=blue&logo=java&logoColor=white) |  | ![SQLITE](https://img.shields.io/static/v1?label=%7F&message=SQLITE&color=2c2d72&logo=sqlite&logoColor=white) |  |  |
-| ![KOTLIN](https://img.shields.io/static/v1?label=%7F&message=KOTLIN&color=blue&logo=kotlin&logoColor=white) |  | ![UNITY](https://img.shields.io/static/v1?label=%7F&message=UNITY&color=2c2d72&logo=unity&logoColor=white) |  |  |
+I'm available for contract work and senior roles, remote or around Berlin: crash reporting,
+observability SDKs, security-sensitive systems, and making agent-built code production-grade.
 
-
--------------------------------------------------------------------------------
-
-### 🗣️ Social
-
-<a href="https://www.linkedin.com/in/kstenerud/">![LinkedIn](https://img.shields.io/static/v1?label=%7f&message=LinkedIn&color=0077b5&logo=linkedin&logoColor=white&style=plastic) </a> <a href="https://twitter.com/karlstenerud">![Twitter](https://img.shields.io/static/v1?label=%7f&message=Twitter&color=5da9dd&logo=twitter&logoColor=white&style=plastic) </a> <a href="https://www.technicalsourcery.net/">![Technical Sourcery](https://img.shields.io/static/v1?label=T&message=Technical%20Sourcery&color=orange&style=plastic) </a>
+- kstenerud@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/kstenerud/)
