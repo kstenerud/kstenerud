@@ -16,6 +16,7 @@ working when everything around it has failed.
 **[Orpheum](https://github.com/kstenerud/orpheum)** is a self-hosted media server for your own films
 and series, which you can watch from anywhere with no VPN and no open ports. Coding agents built it
 in seven weeks under my direction, behind tests and gates designed to make their output trustworthy.
+[How it's built](https://github.com/kstenerud/orpheum/blob/main/docs/contributors/how-it-is-built.md).
 
 Built along the way:
 - **[ffmpeg-fdproxy](https://github.com/kstenerud/ffmpeg-fdproxy)** runs FFmpeg fully confined (no
